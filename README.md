@@ -45,10 +45,10 @@ Automotive Industry: Utilizing sensor data from connected cars to predict mainte
 Aerospace Industry: Monitoring aircraft engines and components to reduce maintenance costs, improve safety, and optimize utilization.
 
 References
-Predictive Maintenance: A Comprehensive Guide
-Zenatix Predictive Maintenance
-Tractian Predictive Maintenance Guide
-IoT-based Predictive Maintenance for Fleet Management
+Intellicus: Predictive Maintenance - A Comprehensive Guide
+Zenatix: Predictive Maintenance - A Comprehensive Guide
+Tractian: Predictive Maintenance - The Complete Guide 2022
+Kaggle: IoT-based Predictive Maintenance for Fleet Management
 
 Contributing
 Contributions are welcome! Please feel free to submit a Pull Request if you'd like to contribute to this project.
